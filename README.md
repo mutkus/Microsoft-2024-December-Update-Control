@@ -66,8 +66,7 @@ Aşağıdaki yöntemlerden birini kullanabilirsiniz:
 .\MS-2024-Dec-Control.ps1
 
 -Betik Engeli Kaldırma (Uzaktan İndirilen Betikler İçin):
--  Unblock-File .\Untitled1.ps1
-.\MS-2024-Dec-Control.ps1
+-  Unblock-File .\MS-2024-Dec-Control.ps1
 
 ---
 
